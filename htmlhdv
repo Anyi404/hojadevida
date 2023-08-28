@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="es"> html
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="css/styles.css">
+  <title>Hoja de Vida</title>
+</head>
+<body>
+  <header>
+    <h1>Hoja de Vida</h1>
+  </header>
+  <main>
+    <section id="informacion-personal">
+        <div class="name">
+            <div class="img">
+                <img src="fotoperfil.jpg" alt="">
+            </div>
+      <h2>Información Personal</h2>
+      <p>Nombre: Anyi Shirley Lozada Aguilar</p>
+      <p>Correo electrónico: anyilozada19@email.com</p>
+      <p>Edad: 18</p>
+      <p>Teléfono: 3133908725</p>
+    </section>
+    <section id="estudios">
+      <h2>Estudio</h2>
+      <p>Primaria: Colegio Distrital Bachue</p>
+      <p>Bachiller: Colegio Debora Árango Peréz</p>
+      <p>Técnico en ejecución musical: Colegio Debora Árango Peréz </p>
+    </section>
+    <section id="experiencia-laboral">
+        <h3>Experiencia Laboral</h2>
+        <p>Nombre de la empresa: Ferrevidrios</p>
+        <p>Tiempo de experiencia: 20/08/20 - vigente</p>
+        <p>Cargo o enfoque: Atencion al cliente, mano de obra en el corte de vidrio, conocimiento en productos de ferretería y manejo de calidad de los mismos.</p>
+      </section>
+  </main>
+</body>
+</html>
+
+
+
+
